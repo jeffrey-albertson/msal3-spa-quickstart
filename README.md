@@ -1,2 +1,2 @@
-# foxtrotsky
- SPA demonstrating MSAL2
+# msal2-spa-quickstart
+ Authentication in Typescript with @azure/msal-angular
