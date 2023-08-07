@@ -18,7 +18,6 @@
 .vs
 .vscode
 dist
-node_modules
 out-tsc
 
 .angular/**
@@ -26,15 +25,10 @@ out-tsc
 .vs/**
 .vscode/**
 dist/**
-node_modules/**
 out-tsc/**
 
 src/.vs/**
-!src/app/**
-!src/assets/**
-!src/environments/**
-!src/**
-
+!src/**/**
 
 # Logs
 logs
