@@ -26,7 +26,7 @@ export function MSALInstanceFactory(): IPublicClientApplication {
     auth: {
       clientId: '8914394f-b55a-431f-a49d-2fe9b2b747ab',
       authority: 'https://login.microsoftonline.com/common',
-      redirectUri: 'http://localhost:4200/' 
+      redirectUri: 'http://foxtrostky.org/' 
     },
     cache: {
       cacheLocation: BrowserCacheLocation.LocalStorage,
