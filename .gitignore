@@ -30,6 +30,8 @@ out-tsc/**
 src/.vs/**
 !src/**/**
 
+!docs/**
+
 # Logs
 logs
 *.log
