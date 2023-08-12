@@ -1,4 +1,4 @@
 
 # foxtrotsky
 
- SPA demonstrating MSAL2
+ SPA demonstrating MSAL3
