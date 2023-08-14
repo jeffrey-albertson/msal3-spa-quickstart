@@ -1,4 +1,4 @@
 
-# MSAL3 QUICKSTART
+# foxtrotsky
 
-SPA demonstrating MSAL3
+ SPA demonstrating MSAL3
