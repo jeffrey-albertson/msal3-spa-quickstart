@@ -27,7 +27,7 @@ out-tsc
 dist/**
 out-tsc/**
 
-!src/**/**
+!src/**
 
 !docs/**
 
