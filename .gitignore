@@ -27,7 +27,6 @@ out-tsc
 dist/**
 out-tsc/**
 
-src/.vs/**
 !src/**/**
 
 !docs/**
