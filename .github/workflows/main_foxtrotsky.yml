@@ -51,7 +51,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'foxtrotsky'
+          app-name: 'msal3-spa-quickstart'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B8C253E74D8D44E4B5D639763E0719D3 }}
           package: .
