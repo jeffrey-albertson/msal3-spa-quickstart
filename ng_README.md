@@ -1,4 +1,4 @@
-# Angular 11 MSAL Angular 2.x Sample
+# Angular 11 MSAL Angular 3.x Sample
 
 This developer sample is used to demonstrate how to use MSAL-Angular v3.
 
