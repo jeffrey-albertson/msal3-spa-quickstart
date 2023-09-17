@@ -1,6 +1,6 @@
 # Angular 11 MSAL Angular 2.x Sample
 
-This developer sample is used to demonstrate how to use MSAL-Angular v2.
+This developer sample is used to demonstrate how to use MSAL-Angular v3.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16
 
