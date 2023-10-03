@@ -24,9 +24,9 @@ export function loggerCallback(logLevel: LogLevel, message: string) {
 export function MSALInstanceFactory(): IPublicClientApplication {
   return new PublicClientApplication({
     auth: {
-      clientId: '8914394f-b55a-431f-a49d-2fe9b2b747ab',
+      clientId: '0343a8ed-71c5-4833-b37e-559d0749c53a',
       authority: 'https://login.microsoftonline.com/common',
-      redirectUri: 'https://jeffreyalbertson.dev/.auth/login/aad/callback'
+      redirectUri: 'https://jeffreyalbertson.dev/profile'
     },
     cache: {
       cacheLocation: BrowserCacheLocation.LocalStorage,
@@ -54,7 +54,7 @@ export function MSALInterceptorConfigFactory(): MsalInterceptorConfiguration {
 
 export function MSALGuardConfigFactory(): MsalGuardConfiguration {
   return { 
-    interactionType: InteractionType.Popup,
+    interactionType: InteractionType.Redirect,
     authRequest: {
       scopes: ['user.read']
     }
