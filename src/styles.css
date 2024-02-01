@@ -2,5 +2,5 @@
 @import '@angular/material/prebuilt-themes/deeppurple-amber.css';
 
 html, body { height: 100%; }
-body { margin: 0; font-family: Inconsolata, Montserrat, sans-serif; }
+body { margin: 0; font-family: Montserrat, Inconsolata, sans-serif; }
 .container { margin: 1; }
